@@ -1,0 +1,13 @@
+s1 = input('Введите первую дробь (a/b): ')
+s2 = input('Введите вторую дробь (a/b): ')
+ar1 = s1.split('/')
+ar2 = s2.split('/')
+a = int(ar1[0])
+b = int(ar1[1])
+c = int(ar2[0])
+d = int(ar2[1])
+
+res = str(a * d + c * b) + '/' + str(b * d)
+print('сумма дробей = ', res)
+res = str(a*c) + '/' + str(b * d)
+print('произведение дробей = ', res)
