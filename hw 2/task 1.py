@@ -59,7 +59,6 @@ def insert_money(b, cnt):
             cnt += 1
             b = b - (cashe * 1.015)
             if procent(cnt):
-                print(b)
                 b *= 1.03
         else:
             print('\nНа счету не достаточно средств!')
