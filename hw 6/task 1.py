@@ -33,8 +33,8 @@ def check_year(y):
     return True
 
 if __name__ == '__main__':
-    _, *params = argv
-    if is_date(*map(int, params)):
+    _, date_inp = argv
+    if is_date(*map(int, date_inp.split('.'))):
         print('Дата корректна.')
     else:
         print('Такой даты нет!')

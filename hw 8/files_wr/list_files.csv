@@ -1,0 +1,14 @@
+Name obj,Parent dir,Type,Size obj
+data.pickle,files_wr,file,0.0001583099365234375
+dir_walk.py,files_wr,file,0.001995086669921875
+list_files.csv,files_wr,file,0.0006170272827148438
+list_files.json,files_wr,file,0.0012903213500976562
+list_files.pickle,files_wr,file,0.0006418228149414062
+new_csv.csv,files_wr,file,0.000125885009765625
+pickel_line.py,files_wr,file,0.00023651123046875
+r_pic_list.py,files_wr,file,0.000736236572265625
+__init__.py,files_wr,file,0.0
+fff,files_wr,directory,0.0007534027099609375
+test.txt,fff,file,0.00037670135498046875
+test,fff,directory,0.00037670135498046875
+test2.txt,test,file,0.00037670135498046875
