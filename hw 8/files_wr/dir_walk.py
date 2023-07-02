@@ -1,3 +1,4 @@
+# Проход по папкам
 import os, csv, json, pickle
 
 F = os.getcwd()
