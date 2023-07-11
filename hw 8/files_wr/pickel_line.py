@@ -1,3 +1,4 @@
+# Вывод пикл строки
 import csv, pickle
 
 def pic_in_csv(f_name):

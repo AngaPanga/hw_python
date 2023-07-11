@@ -1,3 +1,4 @@
+# Считывание пикл файла и запис в табличный
 import pickle, csv
 
 def pic_read(file_name):
